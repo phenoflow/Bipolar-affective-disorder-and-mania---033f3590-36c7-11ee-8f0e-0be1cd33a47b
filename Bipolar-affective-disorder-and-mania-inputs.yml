@@ -1,0 +1,57 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/bipolar-affective-disorder-and-mania-manicdepress---primary.py
+inputModule3:
+  class: File
+  path: python/bipolar-affective-disorder-and-mania---primary.py
+inputModule4:
+  class: File
+  path: python/bipolar-affective-disorder-and-mania-psychoses---primary.py
+inputModule5:
+  class: File
+  path: python/hypomanic-bipolar-affective-disorder-and-mania---primary.py
+inputModule6:
+  class: File
+  path: python/severe-bipolar-affective-disorder-and-mania---primary.py
+inputModule7:
+  class: File
+  path: python/bipolar-affective-disorder-and-mania-depressed---primary.py
+inputModule8:
+  class: File
+  path: python/bipolar-affective-disorder-and-mania-unspec---primary.py
+inputModule9:
+  class: File
+  path: python/moderate-bipolar-affective-disorder-and-mania---primary.py
+inputModule10:
+  class: File
+  path: python/mixed-bipolar-affective-disorder-and-mania---primary.py
+inputModule11:
+  class: File
+  path: python/psychotic-bipolar-affective-disorder-and-mania---primary.py
+inputModule12:
+  class: File
+  path: python/bipolar---primary.py
+inputModule13:
+  class: File
+  path: python/current-bipolar-affective-disorder-and-mania---primary.py
+inputModule14:
+  class: File
+  path: python/bipolar-affective-disorder-and-mania-remission---primary.py
+inputModule15:
+  class: File
+  path: python/other-bipolar-affective-disorder-and-mania---primary.py
+inputModule16:
+  class: File
+  path: python/bipolar-affective-disorder-and-mania-history---primary.py
+inputModule17:
+  class: File
+  path: python/mania---primary.py
+inputModule18:
+  class: File
+  path: python/bipolar-affective-disorder-and-mania---secondary.py
+inputModule19:
+  class: File
+  path: python/output-cases.py
